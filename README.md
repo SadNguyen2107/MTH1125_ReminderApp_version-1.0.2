@@ -7,7 +7,6 @@ Purpose of this project: For those who always forgot to do their MTH1125 homewor
     # Less Bug
     # New Feature: Can add shortcut on your desktop 
 
-This project is for those learn MTH 1125 in Troy University. A Reminder Application
 # Step 1: Download all the file
 # Step 2: Double-click on the getAnnouncementInfo.exe file
 # Step 3: Get your bearer token on the Troy Website 
