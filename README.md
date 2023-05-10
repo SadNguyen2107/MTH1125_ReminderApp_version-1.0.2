@@ -10,9 +10,7 @@ Purpose of this project: For those who always forgot to do their MTH1125 homewor
 # Step 1: Download all the file
 # Step 2: Double-click on the getAnnouncementInfo.exe file
 # Step 3: Get your bearer token on the Troy Website 
-![image](https://user-images.githubusercontent.com/126353303/229347885-fbdf5e2f-f46a-4c8c-b566-928b91fd3170.png)
-![image](https://user-images.githubusercontent.com/126353303/229347891-8c69e28b-63e0-4b7c-8fe2-01615adac99f.png)
+![Opera Snapshot_2023-05-11_033741_community canvaslms com](https://github.com/SadNguyen2107/MTH1125_ReminderApp_version-1.0.2/assets/126353303/7dadf448-0964-433e-b543-75dccf91ca06)
 
-# Step 4: Remember to do the homeworks :)))))
 
 Numbers of User: 2
